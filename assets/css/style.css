@@ -1,0 +1,43 @@
+.image-preview {
+	width: 50%;
+	min-height: 100%;
+	border: 2px solid #dddddd;
+	margin-left: 20px;
+	margin-bottom: 5px;
+
+	/* Default Text */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	color: #cccccc;
+}
+
+.image-preview__image {
+	display: none;
+	width: 100%;
+}
+
+.image-view {
+	height: 100px;
+	width: 100px;
+}
+
+.image-panah {
+	margin-top: 70px;
+	margin-left: 20px;
+}
+
+/* regitrasi */
+.form-gmail {
+	width: 100%;
+	min-height: 100%;
+	border: 1px solid #d1d3e2;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	border-radius: 10rem;
+}
+
+.form-user {
+	border: 0px;
+}
